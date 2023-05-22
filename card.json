@@ -1,0 +1,19 @@
+'[{
+    "Dlc":"Social",
+    "Name":"Rule",
+    "Describtion":"dd",
+    "Give":0,
+    "Drink":0,
+    "Punisment":3,
+    "CardAmount":10
+   },
+   {
+    "Dlc":"Drink",
+    "Name":"Drink",
+    "Describtion":"ss",
+    "Give":1,
+    "Drink":1,
+    "Punisment":3,
+    "CardAmount":10
+   },
+  ]'
