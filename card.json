@@ -1,7 +1,7 @@
 [{
     "Dlc":"Social",
     "Name":"Rule",
-    "Describtion":"dd",
+    "Description":"dd",
     "Give":0,
     "Drink":0,
     "Punisment":3,
@@ -10,7 +10,7 @@
    {
     "Dlc":"Drink",
     "Name":"Drink",
-    "Describtion":"ss",
+    "Description":"ss",
     "Give":1,
     "Drink":1,
     "Punisment":3,
